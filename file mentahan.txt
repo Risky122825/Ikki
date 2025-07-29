@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Proyek Tim</title>
+</head>
+<body>
+    <h1>Proyek Kami</h1>
+    <p>Halo proyek ini dibuat dari tim.hebat dari kelompok 5 yang beranggotakan 3 orang</p>
+</body>
+</html>
